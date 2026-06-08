@@ -10,7 +10,7 @@ function countVowels(str) {
         }
     }
 
-    return count;
+    console.log(`The word ${str} has ${count} vowels.`);
 
     return count;
 }
